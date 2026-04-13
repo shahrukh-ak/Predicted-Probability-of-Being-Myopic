@@ -1,9 +1,5 @@
 # Myopia Probability Analysis
-#
-# Professionalized version of the original project file.
-# The code and stated results are retained from the source as closely as possible.
-# Output text from the original file has been converted to comments where needed for readability.
-#
+
 
 # Calculating-the-probablity-of-MYPIC-depending-upon-SPHEQ
 #	Based on the R output below we have 618 observations with 18 variables.
